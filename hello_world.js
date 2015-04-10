@@ -6,7 +6,7 @@ $(function() {
 	var init = function() {
 
 		/** 「Hello World!!」をalertで出す */
-		test();
+		//test();
 
 	};
 
